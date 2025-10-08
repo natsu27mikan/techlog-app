@@ -1,0 +1,3 @@
+# rbenv setup
+export PATH="$HOME/.rbenv/shims:$PATH"
+eval "$(rbenv init - zsh)"

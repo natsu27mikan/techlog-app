@@ -15,5 +15,7 @@ module TechlogApp
       g.helper false #helper,,,form_with link_to
       g.test_framework :rspec
     end
+
+    config.i18n.default_locale = :ja
   end
 end
